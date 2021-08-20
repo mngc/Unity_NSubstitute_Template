@@ -43,8 +43,17 @@ This steps will help you install NSubstitute library in you Unity project.
 - Writing Play Mode test [here](https://docs.unity3d.com/Packages/com.unity.test-framework@1.1/manual/reference-attribute-unitytest.html)
 - Complete tutorial on writing unit test in a game [here](https://www.raywenderlich.com/9454-introduction-to-unity-unit-testing)
 
+# Contributing
+Any contributions you make are greatly appreciated.
 
-## Future work 
+## Fork the Project
+1. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+1. Commit your Changes (git commit -m 'Add some AmazingFeature')
+1. Push to the Branch (git push origin feature/AmazingFeature)
+1. Open a Pull Request
+
+
+# Future work 
 
 Test NSubstitute 4.2.1
 
