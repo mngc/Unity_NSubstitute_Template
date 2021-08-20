@@ -256,6 +256,9 @@
  <Reference Include="UnityEditor.iOS.Extensions">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.29f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="NSubstitute">
+ <HintPath>/Users/eduardoperez/workspace/unity/NSubstitute Template/Assets/Plugins/NSubstitute.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Plastic.Newtonsoft.Json">
  <HintPath>/Users/eduardoperez/workspace/unity/NSubstitute Template/Library/PackageCache/com.unity.collab-proxy@1.6.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
  </Reference>
@@ -267,9 +270,6 @@
  </Reference>
  <Reference Include="log4netPlastic">
  <HintPath>/Users/eduardoperez/workspace/unity/NSubstitute Template/Library/PackageCache/com.unity.collab-proxy@1.6.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
- </Reference>
- <Reference Include="NSubstitute">
- <HintPath>/Users/eduardoperez/workspace/unity/NSubstitute Template/Assets/Plugins/NSubstitute.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.29f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

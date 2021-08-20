@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player.csproj", "{b9d4f463-69a5-223f-9bf8-c89cc75ff654}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayModeTests", "PlayModeTests.csproj", "{1e532857-e559-7548-cf9f-fd921c3b8c74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player.csproj", "{b9d4f463-69a5-223f-9bf8-c89cc75ff654}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests.csproj", "{6847261f-6877-7ab4-6e98-b2021d6a844b}"
 EndProject
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{b9d4f463-69a5-223f-9bf8-c89cc75ff654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{b9d4f463-69a5-223f-9bf8-c89cc75ff654}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{b9d4f463-69a5-223f-9bf8-c89cc75ff654}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{b9d4f463-69a5-223f-9bf8-c89cc75ff654}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1e532857-e559-7548-cf9f-fd921c3b8c74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1e532857-e559-7548-cf9f-fd921c3b8c74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1e532857-e559-7548-cf9f-fd921c3b8c74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1e532857-e559-7548-cf9f-fd921c3b8c74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{b9d4f463-69a5-223f-9bf8-c89cc75ff654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b9d4f463-69a5-223f-9bf8-c89cc75ff654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b9d4f463-69a5-223f-9bf8-c89cc75ff654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{b9d4f463-69a5-223f-9bf8-c89cc75ff654}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6847261f-6877-7ab4-6e98-b2021d6a844b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6847261f-6877-7ab4-6e98-b2021d6a844b}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6847261f-6877-7ab4-6e98-b2021d6a844b}.Release|Any CPU.ActiveCfg = Release|Any CPU
